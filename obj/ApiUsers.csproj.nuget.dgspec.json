@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers\\ApiUsers.csproj": {}
+    "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers\\ApiUsers.csproj": {
+    "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers\\ApiUsers.csproj",
+        "projectUniqueName": "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers.csproj",
         "projectName": "ApiUsers",
-        "projectPath": "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers\\ApiUsers.csproj",
+        "projectPath": "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers.csproj",
         "packagesPath": "C:\\Users\\jl-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers\\obj\\",
+        "outputPath": "C:\\Users\\jl-\\Documents\\MyApiUsers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jl-\\AppData\\Roaming\\NuGet\\NuGet.Config",

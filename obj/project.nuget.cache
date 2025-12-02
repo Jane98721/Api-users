@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qnQRzaSJR5o=",
+  "dgSpecHash": "bnDNoaKYwDo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers\\ApiUsers.csproj",
+  "projectFilePath": "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jl-\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
     "C:\\Users\\jl-\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.15.0\\microsoft.identitymodel.abstractions.8.15.0.nupkg.sha512",

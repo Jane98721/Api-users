@@ -1,0 +1,15 @@
+C:\Users\jl-\documents\MyApiUsers\publish\ApiUsers.exe
+C:\Users\jl-\documents\MyApiUsers\publish\appsettings.Development.json
+C:\Users\jl-\documents\MyApiUsers\publish\appsettings.json
+C:\Users\jl-\documents\MyApiUsers\publish\ApiUsers.dll
+C:\Users\jl-\documents\MyApiUsers\publish\ApiUsers.deps.json
+C:\Users\jl-\documents\MyApiUsers\publish\ApiUsers.runtimeconfig.json
+C:\Users\jl-\documents\MyApiUsers\publish\ApiUsers.pdb
+C:\Users\jl-\documents\MyApiUsers\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jl-\documents\MyApiUsers\publish\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jl-\documents\MyApiUsers\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jl-\documents\MyApiUsers\publish\Microsoft.IdentityModel.Logging.dll
+C:\Users\jl-\documents\MyApiUsers\publish\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jl-\documents\MyApiUsers\publish\Microsoft.OpenApi.dll
+C:\Users\jl-\documents\MyApiUsers\publish\Scalar.AspNetCore.dll
+C:\Users\jl-\documents\MyApiUsers\publish\System.IdentityModel.Tokens.Jwt.dll
