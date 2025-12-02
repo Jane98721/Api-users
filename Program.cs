@@ -11,7 +11,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowAngular",
         policy =>
         {
-            policy.WithOrigins("http://localhost:4200") // din Angular-apps URL
+            policy.WithOrigins("https://angular-book-project.netlify.app/login") // din Angular-apps URL
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
