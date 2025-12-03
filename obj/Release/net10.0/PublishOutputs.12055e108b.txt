@@ -1,0 +1,15 @@
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\ApiUsers.exe
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\appsettings.Development.json
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\appsettings.json
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\ApiUsers.dll
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\ApiUsers.deps.json
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\ApiUsers.runtimeconfig.json
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\ApiUsers.pdb
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\Microsoft.IdentityModel.Logging.dll
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\Microsoft.OpenApi.dll
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\Scalar.AspNetCore.dll
+C:\Users\jl-\Documents\MyApiUsers\bin\Release\net10.0\publish\System.IdentityModel.Tokens.Jwt.dll

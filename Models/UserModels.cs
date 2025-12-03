@@ -1,4 +1,4 @@
-namespace ApiUsers.Models
+namespace MyApiUsers.Models
 {
 
   public class UserModels

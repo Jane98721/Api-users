@@ -1,6 +1,5 @@
-namespace ApiUsers.Entities
+namespace MyApiUsers.Entities
 {
-
   public class User 
   {
 

@@ -1,15 +1,15 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using ApiUsers.Entities;
-using ApiUsers.Models;
+using MyApiUsers.Entities;
+using MyApiUsers.Models;
 using System.Security.Claims;
 using System.IdentityModel.Tokens.Jwt;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 
-namespace ApiUsers.Controllers
+namespace MyApiUsers.Controllers
 {
 
 [Route("api/[controller]")]

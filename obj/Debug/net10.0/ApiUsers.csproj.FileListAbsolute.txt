@@ -41,12 +41,6 @@ C:\Users\jl-\Documents\MyApiUsers\ApiUsers\obj\Debug\net10.0\ApiUsers.sourcelink
 C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\appsettings.json
 C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\ApiUsers.staticwebassets.endpoints.json
-C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\publish\web.config
-C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\publish\ApiUsers.deps.json
-C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\publish\ApiUsers.runtimeconfig.json
-C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\publish\ApiUsers.staticwebassets.endpoints.json
-C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\publish\appsettings.Development.json
-C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\publish\appsettings.json
 C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\ApiUsers.exe
 C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\ApiUsers.deps.json
 C:\Users\jl-\Documents\MyApiUsers\bin\Debug\net10.0\ApiUsers.runtimeconfig.json
