@@ -39,7 +39,7 @@ public class AuthController: ControllerBase
 
     users.Add(newUser);
 
-    return Ok(newUser);
+    return Ok(new { Username = newUser.Username});
 
   }
 

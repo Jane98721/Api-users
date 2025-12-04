@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6F88Dosr1ig=",
+  "dgSpecHash": "jjoSu2uVtyA=",
   "success": true,
   "projectFilePath": "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,21 @@
     "C:\\Users\\jl-\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.15.0\\microsoft.identitymodel.tokens.8.15.0.nupkg.sha512",
     "C:\\Users\\jl-\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
     "C:\\Users\\jl-\\.nuget\\packages\\scalar.aspnetcore\\2.11.0\\scalar.aspnetcore.2.11.0.nupkg.sha512",
-    "C:\\Users\\jl-\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.15.0\\system.identitymodel.tokens.jwt.8.15.0.nupkg.sha512"
+    "C:\\Users\\jl-\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.15.0\\system.identitymodel.tokens.jwt.8.15.0.nupkg.sha512",
+    "C:\\Users\\jl-\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Text.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\jl-\\Documents\\MyApiUsers\\ApiUsers.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
